@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/80620121-1fea-45e7-ae09-f76bad89c829/deploy-status)](https://app.netlify.com/sites/epicquestz-wiki/deploys)
+
 # Website
 
 This website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern static website generator.
