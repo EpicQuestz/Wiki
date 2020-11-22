@@ -1,7 +1,7 @@
 module.exports = {
   title: 'EpicQuestz Wiki',
   tagline: 'The official EpicQuestz wiki',
-  url: 'https://wiki.epicquestz.com',
+  url: 'https://epicquestz-wiki.netlify.app/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
