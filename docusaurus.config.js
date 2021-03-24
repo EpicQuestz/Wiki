@@ -23,7 +23,7 @@ module.exports = {
           position: 'left',
         },
         {to: 'blog', label: 'Blog', position: 'left'},
-        {
+        { 
           href: 'https://github.com/facebook/docusaurus',
           label: 'GitHub',
           position: 'right',
@@ -51,7 +51,7 @@ module.exports = {
           items: [
             {
               label: 'Youtube',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              href: 'https://www.youtube.com/user/EpicQuestz',
             },
             {
               label: 'Discord',
