@@ -1,8 +1,4 @@
 module.exports = {
-  //someSidebar: {
-  //  Docusaurus: ['doc1', 'doc2', 'doc3'],
-  //  Features: ['mdx'],
-  //},
   categories: [
     {
       type: 'category',
@@ -13,16 +9,15 @@ module.exports = {
       type: 'category',
       label: 'Plugins',
       items: [
-            'we1',
-			'we2',
-			'voxel'
-	  ]
+        'we1',
+			  'we2',
+			  'voxel'
+	    ]
     },
     {
       type: 'category',
       label: 'Building',
       items: ['profs']
     }
-
   ]
 };
