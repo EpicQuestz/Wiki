@@ -1,28 +1,36 @@
 module.exports = {
-  //someSidebar: {
-  //  Docusaurus: ['doc1', 'doc2', 'doc3'],
-  //  Features: ['mdx'],
-  //},
   categories: [
     {
       type: 'category',
       label: 'General',
+	  collapsed: false,
       items: ['doc1', 'doc2']
     },
+	
     {
       type: 'category',
       label: 'Plugins',
+	  collapsed: false,
       items: [
-            'we1',
-			'we2',
-			'voxel'
+        'we1',
+		'we2',
+		'voxel'
 	  ]
     },
+	
     {
       type: 'category',
       label: 'Building',
-      items: ['profs']
-    }
+	  collapsed: false,
+      items: [
+	    {
+          General: ['profs', 'roh1'],
+		},
+	    {
+          Interiors: ['int1'],
+		},
+	  ],
+    },
 
-  ]
+  ],
 };
