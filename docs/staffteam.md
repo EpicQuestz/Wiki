@@ -1,6 +1,7 @@
 ---
 id: doc9
 title: This is Doc 9
+slug: /staff
 ---
 
 I can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
