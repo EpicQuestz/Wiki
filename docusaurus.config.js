@@ -5,15 +5,15 @@ module.exports = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  favicon: 'img/eq-favicon.png',
+  organizationName: 'EpicQuestz', // Usually your GitHub org/user name.
+  projectName: 'wiki', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'EpicQuestz Wiki',
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        alt: 'EpicQuestz Logo',
+        src: 'img/eq-logo-large.png',
       },
       items: [
         {
@@ -50,16 +50,16 @@ module.exports = {
           title: 'Community',
           items: [
             {
-              label: 'Stack Overflow',
+              label: 'Youtube',
               href: 'https://stackoverflow.com/questions/tagged/docusaurus',
             },
             {
               label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              href: 'https://discordapp.com/invite/fVYxD9Q',
             },
             {
               label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              href: 'https://twitter.com/EpicQuestz',
             },
           ],
         },
@@ -77,7 +77,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © 2020 - ${new Date().getFullYear()} EpicQuestz`,
     },
   },
   presets: [
@@ -88,13 +88,13 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+            'https://github.com/EpicQuestz/Wiki',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
+            'https://github.com/EpicQuestz/Wiki/blog',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
