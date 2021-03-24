@@ -13,27 +13,15 @@ module.exports = {
       type: 'category',
       label: 'Plugins',
       items: [
-        'doc3',
-        {
-          WorldEdit: [
-            'doc1',
-            'doc2'
-          ]
-        }
-      ]
+            'we1',
+			'we2',
+			'voxel'
+	  ]
     },
     {
       type: 'category',
       label: 'Building',
-      items: [
-        'doc3',
-        {
-          'Rohan Project': [
-            'doc1',
-            'doc2'
-          ]
-        }
-      ]
+      items: ['profs']
     }
 
   ]
