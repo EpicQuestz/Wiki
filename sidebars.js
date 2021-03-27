@@ -1,12 +1,18 @@
 module.exports = {
   categories: [
+
     {
       type: 'category',
-      label: 'General',
+      label: 'Server Meta',
 	  collapsed: false,
-      items: ['doc1', 'doc2']
+      items: [
+        'doc1',
+		'builder',
+		'artist',
+		'staff'
+	  ]
     },
-	
+
     {
       type: 'category',
       label: 'Plugins',
@@ -24,10 +30,10 @@ module.exports = {
 	  collapsed: false,
       items: [
 	    {
-          General: ['profs', 'roh1'],
+          General: ['int1', 'roh1'],
 		},
 	    {
-          Interiors: ['int1'],
+          Realism: ['profs', 'mount'],
 		},
 	  ],
     },
