@@ -7,7 +7,6 @@ slug: /interior-structure
 
 import BreeDormers from '@site/static/img/in-game/bree_dormers-1.png';
 
-
 <div class="video-container"><iframe src="https://www.youtube.com/embed/M8TnUJRvEto"></iframe></div>
 
 ## dog_lover11's Bree Tips
