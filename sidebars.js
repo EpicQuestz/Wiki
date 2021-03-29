@@ -1,42 +1,38 @@
 module.exports = {
   categories: [
-
     {
       type: 'category',
       label: 'Server Meta',
-	  collapsed: false,
+	    collapsed: false,
       items: [
         'doc1',
-		'builder',
-		'artist',
-		'staff'
-	  ]
+		     'builder',
+		     'artist',
+		     'staff'
+	    ]
     },
-
     {
       type: 'category',
       label: 'Plugins',
-	  collapsed: false,
+	    collapsed: false,
       items: [
         'we1',
-		'we2',
-		'voxel'
-	  ]
+	    	'we2',
+		    'voxel'
+	    ]
     },
-	
     {
       type: 'category',
       label: 'Building',
-	  collapsed: false,
+	    collapsed: false,
       items: [
-	    {
-          General: ['int1', 'roh1'],
-		},
-	    {
-          Realism: ['profs', 'mount'],
-		},
-	  ],
-    },
-
-  ],
+        {
+            General: ['int1', 'roh1'],
+        },
+        {
+            Realism: ['profs', 'mount'],
+        }
+	    ]
+    }
+  ]
 };
