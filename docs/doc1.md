@@ -202,7 +202,7 @@ This is a warning
 
 :::
 
-This is a link to [another document.](mdx.md) This is a link to an [external page.](http://www.example.com/)
+This is a link to [another document.](doc1.md) This is a link to an [external page.](http://www.example.com/)
 
 You can write JSX and use React components within your Markdown thanks to [MDX](https://mdxjs.com/).
 
