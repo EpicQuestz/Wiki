@@ -17,8 +17,8 @@ slug: /voxelsniper
 
 1.  *In the main, you will work with Voxelsniper through two tools.*
 
--   Right clicking with an arrow in your hand will carry out whatever you have told it to using /b and /v.
--   Right clicking with gunpowder in your hand differs depending on the brush, but usually it either executes the brush adjacent to, rather than 'in' the block you have aimed at, or does the opposite of what the arrow would do.
+-   Right-clicking with an arrow in your hand will carry out whatever you have told it to, using /b and /v.
+-   Right-clicking with gunpowder in your hand differs depending on the brush, but usually, it either executes the brush adjacent to, rather than 'in' the block you have aimed at, or does the opposite of what the arrow would do.
 
 ### Important Commands
 
@@ -89,6 +89,6 @@ Before we look at any more brushes, it is important to mention another aspect of
 
 -   /b over d[depth] creates an overlay using your material, fairly simple.
 
-*In the next guide I will go into further things you can do with this brilliant plugin, such as using ink, far more extensive information on performers and masks, how to bind brushes to tools, more brushes, and stencils. In the meantime, if you have an issue talk to a Designer, Artist or Creator - who should be able to help.*
+*In the next guide, I will go into further things you can do with this brilliant plugin, such as using ink, far more extensive information on performers and masks, how to bind brushes to tools, more brushes, and stencils. In the meantime, if you have an issue talk to a Designer, Artist or Creator - who should be able to help.*
 
 *Guide written by Tobberz, 03/19*
