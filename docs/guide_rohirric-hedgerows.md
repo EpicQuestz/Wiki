@@ -26,7 +26,7 @@ The following are steps that you must use in order to create the desired style o
 
 ---
 
-1. Using light gray concrete, widen the hedge line inwards by one block so that the entire stone border is two blocks wide. When completing this step, ensure that the stone border is one block taller than ground outside of the farm, this may mean that the inner and outer layers of concrete are at different elevations, however when in doubt use your own common sense.
+1. Using light gray concrete, widen the hedge line inwards by one block so that the entire stone border is two blocks wide. When completing this step, ensure that the stone border is one block taller than the ground outside of the farm, this may mean that the inner and outer layers of concrete are at different elevations, however when in doubt use your own common sense.
 
 <img src={one} />
 

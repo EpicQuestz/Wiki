@@ -30,7 +30,7 @@ Try adding some dormer windows to the roofs of your houses once you’ve disting
 <img src={BreeDormers} />
 
 **Tip #5:**
-Almost all the houses that have been planned (so far) have specific professions and jobs labelled to them. Ensure your structure includes a store front and a workshop if necessary to that profession.
+Almost all the houses that have been planned (so far) have specific professions and jobs labelled to them. Ensure your structure includes a storefront and a workshop if necessary to that profession.
 
 
 **Tip #6:**
