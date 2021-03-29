@@ -20,31 +20,30 @@ module.exports = {
           to: 'docs/',
           activeBasePath: 'docs',
           label: 'Docs',
-          position: 'left',
+          position: 'left'
         },
-        {to: 'blog', label: 'Blog', position: 'left'},
-        { 
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
-          position: 'right',
-        },
-      ],
+        {
+          to: 'blog', 
+          label: 'Blog', 
+          position: 'left'
+        }
+      ]
     },
     footer: {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Navigation',
           items: [
             {
-              label: 'Style Guide',
-              to: 'docs/',
+              label: 'Website',
+              to: 'https://www.epicquestz.com',
             },
             {
-              label: 'Second Doc',
-              to: 'docs/doc2/',
-            },
-          ],
+              label: 'Forums',
+              to: 'https://forums.epicquestz.com',
+            }
+          ]
         },
         {
           title: 'Community',
@@ -60,8 +59,8 @@ module.exports = {
             {
               label: 'Twitter',
               href: 'https://twitter.com/EpicQuestz',
-            },
-          ],
+            }
+          ]
         },
         {
           title: 'More',
@@ -72,9 +71,9 @@ module.exports = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
-            },
-          ],
+              href: 'https://github.com/EpicQuestz/Wiki',
+            }
+          ]
         },
       ],
       copyright: `Copyright © 2020 - ${new Date().getFullYear()} EpicQuestz`,
@@ -98,8 +97,8 @@ module.exports = {
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
-        },
-      },
-    ],
-  ],
+        }
+      }
+    ]
+  ]
 };
