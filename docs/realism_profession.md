@@ -50,7 +50,7 @@ In smaller towns, instead of having 4 separate shops for these 4 specialisations
 
 :::tip
 
-Usually in a large city, all similar professions would be on the same street. E.g: Baker Street, Shambles, etc.
+Usually, in a large city, all similar professions would be on the same street. E.g: Baker Street, Shambles, etc.
 
 :::
 
