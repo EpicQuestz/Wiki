@@ -32,10 +32,16 @@ module.exports = {
         {
             Terrain: ['terra', 'roh1'],
         },
-        {
-            Realism: ['profs', 'mount'],
-        }
 	    ]
-    }
+    },
+    {
+      type: 'category',
+      label: 'Realism',
+	    collapsed: false,
+      items: [
+        'profs',
+	    	'mount',
+	    ]
+    },
   ]
 };
