@@ -18,7 +18,7 @@ import footer from '@site/static/img/guide_rohirric-hedgerows/footer.png';
 
 <img src={header} />
 
-Hello again! This guide concerns the hedgerow borders of the fortified farm (Eoham) in Aldburg, but the principles outlined here may be used in other places in Rohan and beyond too.
+This guide concerns the hedgerow borders of the fortified farm (Eoham) in Aldburg, but the principles outlined here may be used in other places in Rohan and beyond too.
 
 :::note Step-by-step
 The following are steps that you must use in order to create the desired style of hedge.

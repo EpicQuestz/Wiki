@@ -10,7 +10,7 @@ import Mountain2 from '@site/static/img/realism_mountain-types/Mountain2.jpg';
 import Mountain3 from '@site/static/img/realism_mountain-types/Mountain3.jpg';
 import Mountain4 from '@site/static/img/realism_mountain-types/Mountain4.jpg';
 
-:::tip All about mountains!
+:::important All about mountains!
 In this guide, I'll run through some different types of mountains with images and descriptions.
 :::
 
