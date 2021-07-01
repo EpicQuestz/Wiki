@@ -23,7 +23,6 @@ import Pic0 from '@site/static/img/realism_terraforming/0.png';
 Here, Enoshade uses a small plot to demonstrate the basic principles of terraforming.
 
 :::note Step-by-step
-
 Above is the end result of this demonstration - below is how to get there!
 :::
 
@@ -53,9 +52,7 @@ Use voxel sniper brushes to sculpt out the details. My favourite brush for this 
 Smooth everything. Either selecting everything and doing the `//smooth` command (which can give nice curvy shapes depending on the parameters - though it may look too smooth. You could go over this with a slight layer of the lift brush to add roughness). You can also smooth by using `/b bb` and `/b e smooth` voxel sniper brushes, which takes longer and will probably require manual fixing of the staircasing effect created by these brushes.
 
 :::caution Staircasing
-
 Staircasing is very bad in terrain because it is a repeating pattern, and terrain is naturally random and organic. Staircasing looks too artificial and is, unfortunately, an artefact produced by many of Minecraft’s tools. See bottom of page for examples.
-
 :::
 
 ### Step 5
@@ -70,11 +67,9 @@ The texturing phase, this is my favourite. I use a combination of different mask
 The slightly smaller simplex mask makes it so that the blobby shapes become rougher and mixed with the other blocks.
 
 :::note Other Masks for Complex Texturing
-
 - Extrema mask (like angle mask but with ^ instead of /): [Example](https://twitter.com/jessepaleg/status/990594870858338305)
 - Adjacency masks: [Tutorial](https://www.youtube.com/watch?v=JCj0Xpi1yMo)
 - Any other new masks I pick up from other builders.
-
 :::
 
 ### Step 6
@@ -92,10 +87,8 @@ Paste in trees, vegetation, replace the air above certain blocks with tall grass
 </p>
 
 
----
-
+:::note Congratulations
 That's it, you're done! Send me any questions over Discord (Enoshade#3207)
-
-
+:::
 
 *Guide written by Enoshade, 03/19*
