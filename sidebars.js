@@ -5,7 +5,8 @@ module.exports = {
       label: 'Server Meta',
 	    collapsed: false,
       items: [
-        'builder',
+		'welcome',
+			 'builder',
 		     'artist',
 		     'staff'
 	    ]
