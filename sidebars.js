@@ -23,11 +23,14 @@ module.exports = {
     },
     {
       type: 'category',
-      label: 'Building',
+      label: 'Creation',
 	    collapsed: false,
       items: [
         {
-            General: ['int1', 'roh1'],
+            Structures: ['int1'],
+        },
+        {
+            Terrain: ['terra', 'roh1'],
         },
         {
             Realism: ['profs', 'mount'],
