@@ -15,19 +15,7 @@ module.exports = {
         alt: 'EpicQuestz Logo',
         src: 'img/eq-logo-large.png',
       },
-      items: [
-        {
-          to: 'docs/',
-          activeBasePath: 'docs',
-          label: 'Docs',
-          position: 'left'
-        },
-        {
-          to: 'blog', 
-          label: 'Blog', 
-          position: 'left'
-        }
-      ]
+      items: []
     },
     footer: {
       style: 'dark',
@@ -84,6 +72,7 @@ module.exports = {
       '@docusaurus/preset-classic',
       {
         docs: {
+		  routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
